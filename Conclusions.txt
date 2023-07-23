@@ -1,3 +1,6 @@
-#1. A new user can be created taking into account that the ID. Cannot be duplicated
-#2. This user can be search with a GET and updated using a PUT, just using the name of the user to be easy to do it for the user
-#3. Each method was created in a different files because is gonna be more reusable and it can be refactor in a better way for future needs.
+# Conclusion
+
+In this challenge, we have performed comprehensive testing of the PetStore APIs.
+We tested the creation of a new user, searching for the created user, updating the user's name and email, and searching for the updated user. By capturing the inputs, outputs, variables, and other relevant details for each test scenario, we ensure thorough test coverage and provide valuable information for further analysis and improvement of the APIs.
+
+Please note that the exact steps and tools used for testing may vary depending on the specific software chosen for REST service testing.
